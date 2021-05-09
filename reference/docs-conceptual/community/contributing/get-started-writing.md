@@ -32,7 +32,7 @@ The conceptual documentation includes the following content:
 
 The [conceptual documentation][conceptual] is not organized by version. All articles are displayed
 for every version of PowerShell. We're working to create version-specific articles. When that
-feature is available in our documentation, this guide will be update with the appropriate
+feature is available in our documentation, this guide will be updated with the appropriate
 information.
 
 > [!NOTE]
@@ -63,8 +63,8 @@ article, you must specify which versions are affected by the issue. The issue te
 includes a checklist of versions. Use the checkboxes to specify which versions of the content are
 affected.
 
-Check all version of the article to see if the same change is needed in the other versions. Apply
-the appropriate change to each version of the file.
+Check all versions of the article to see if the same change is needed in the other versions. Apply
+the appropriate changes to each version of the file.
 
 ## Localized content
 
@@ -100,7 +100,7 @@ Contributor's Guide:
 Before starting any changes, you should create a fork of the PowerShell-Docs repository. The changes
 should be made in a working branch in you copy of the PowerShell-Docs. If you're using the **quick
 edit** method in GitHub, these steps are handled for you. If you're using the **full GitHub
-workflow**, you must be set up to [work locally][fork].
+workflow**, you must set up to [work locally][fork].
 
 Both methods end with the creation of a Pull Request (PR). See
 [Submitting a pull request](pull-requests.md) for more information and best practices.
